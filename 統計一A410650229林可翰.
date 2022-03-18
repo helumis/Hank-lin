@@ -1,0 +1,73 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": " 統計一A410650229林可翰.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyNTZB7QjiQl9ZPSCFbd4TTK",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/helumis/Hank-lin/blob/master/%E7%B5%B1%E8%A8%88%E4%B8%80A410650229%E6%9E%97%E5%8F%AF%E7%BF%B0.\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 3,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Dbs2puE1XcnQ",
+        "outputId": "6502c55d-50b7-4bec-cb05-07afb59e400d"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "統計一A\n",
+            "410650229\n",
+            "林可翰\n"
+          ]
+        }
+      ],
+      "source": [
+        "a= '統計一A' #班級\n",
+        "b= 410650229 #學號\n",
+        "c= '林可翰' #姓名\n",
+        "print(a)\n",
+        "print(b)\n",
+        "print(c)"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        ""
+      ],
+      "metadata": {
+        "id": "PwgHJ4_uYZdy"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
